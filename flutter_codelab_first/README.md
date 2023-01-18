@@ -23,6 +23,11 @@ flutter create ./flutter_codelab_first
 - [analysis_options.yaml](./analysis_options.yaml)
 - [pubspec.yaml](./pubspec.yaml)
 
+> https://dart-lang.github.io/linter/lints/index.html
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
